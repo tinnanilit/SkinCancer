@@ -27,8 +27,11 @@ Vascular lesion
 
 ## Conclusions
 Following CNN Models were created. Considering the model performance(including loss), Model 3 looks like a reasonably consistent model and can be used for detection.
+
 Model 1 Base Model -- Accuracy: Train = 76% and Validation = 51%
+
 Model 2 With Dropouts and Data Augmentation -- Accuracy: Train = 54% and Validation = 51%
+
 Model 3 With Augementated data and aclass imbalance rectification -- Accuracy: Train = 89% and Validation = 81%
 
 ## Contact
